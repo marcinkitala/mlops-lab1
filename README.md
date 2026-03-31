@@ -1,2 +1,1 @@
-# mlops-lab1
-mlops-lab1
+edycja pliku readme.md
